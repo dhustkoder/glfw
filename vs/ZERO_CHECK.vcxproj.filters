@@ -1,13 +1,13 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <Project ToolsVersion="14.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <ItemGroup>
-    <CustomBuild Include="C:\Users\Rafael\Documents\Projects\arkanoid-oop\externals\glfw\vs\CMakeFiles\5ad5cc240d0aeabaf88e13fe1f3e3fe1\generate.stamp.rule">
+    <CustomBuild Include="C:\Users\Rafael\Documents\Projects\arkanoop\externals\glfw\vs\CMakeFiles\92c00e74b4dadd575d6f788f9cdf409f\generate.stamp.rule">
       <Filter>CMake Rules</Filter>
     </CustomBuild>
   </ItemGroup>
   <ItemGroup>
     <Filter Include="CMake Rules">
-      <UniqueIdentifier>{38D9BE08-33ED-33F1-88D3-44959472D7DF}</UniqueIdentifier>
+      <UniqueIdentifier>{D0601A03-D6FF-3877-B22D-F789B6FF2E2C}</UniqueIdentifier>
     </Filter>
   </ItemGroup>
 </Project>

@@ -1,5 +1,5 @@
-﻿  Building Custom Rule C:/Users/Rafael/Documents/Projects/arkanoid-oop/externals/glfw/src/CMakeLists.txt
-  CMake does not need to re-run because C:\Users\Rafael\Documents\Projects\arkanoid-oop\externals\glfw\vs\src\CMakeFiles\generate.stamp is up-to-date.
+﻿  Building Custom Rule C:/Users/Rafael/Documents/Projects/arkanoop/externals/glfw/src/CMakeLists.txt
+  CMake does not need to re-run because C:\Users\Rafael\Documents\Projects\arkanoop\externals\glfw\vs\src\CMakeFiles\generate.stamp is up-to-date.
   context.c
   init.c
   input.c
@@ -15,4 +15,4 @@
   wgl_context.c
   egl_context.c
   Generating Code...
-  glfw.vcxproj -> C:\Users\Rafael\Documents\Projects\arkanoid-oop\vs\Release\glfw3.lib
+  glfw.vcxproj -> C:\Users\Rafael\Documents\Projects\arkanoop\vs\Release\glfw3.lib
